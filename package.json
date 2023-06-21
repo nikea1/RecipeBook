@@ -24,7 +24,7 @@
   "dependencies": {
     "bcryptjs": "^2.3.0",
     "body-parser": "^1.15.2",
-    "braintree": "^1.42.0",
+    "braintree": "^3.0.0",
     "cookie-parser": "^1.4.3",
     "express": "^4.14.0",
     "express-handlebars": "^3.0.0",
@@ -32,7 +32,7 @@
     "method-override": "^2.3.6",
     "morgan": "^1.7.0",
     "mysql": "^2.11.1",
-    "sequelize": "^3.24.3"
+    "sequelize": "^6.1.0"
   },
   "devDependencies": {
     "gulp": "^3.9.1",
